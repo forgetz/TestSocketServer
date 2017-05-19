@@ -1,0 +1,9 @@
+C:\Code\TestSocketServer\TestSocketServer\bin\Debug\TestSocketServer.exe.config
+C:\Code\TestSocketServer\TestSocketServer\bin\Debug\TestSocketServer.exe
+C:\Code\TestSocketServer\TestSocketServer\bin\Debug\TestSocketServer.pdb
+C:\Code\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.csprojResolveAssemblyReference.cache
+C:\Code\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.Form1.resources
+C:\Code\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.Properties.Resources.resources
+C:\Code\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.csproj.GenerateResource.Cache
+C:\Code\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.exe
+C:\Code\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.pdb
